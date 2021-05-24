@@ -20,6 +20,7 @@ function App() {
           "pk.eyJ1Ijoic25pYXNuaWFzIiwiYSI6ImNrbzR0bzY2bDBraTcycHMyeGdqcnNnaG8ifQ.lNdwz-Dlh4kDA5zhSA_WwA"
         }
       />
+      <h1>Hola me llamo Joaquin</h1>
     </div>
   );
 }
